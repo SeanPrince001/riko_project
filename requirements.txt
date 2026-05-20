@@ -45,3 +45,7 @@ av>=11
 tqdm
 openai
 python-dotenv
+faster-whisper
+flask
+requests
+soundfile
