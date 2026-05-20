@@ -1,6 +1,6 @@
 OPENAI_API_KEY: sk-YOURAPIKEY
 history_file: chat_history.json
-model: "gpt-4.1-mini"
+model: "deepseek-v4-flash"
 presets:
   default:
     system_prompt: |
