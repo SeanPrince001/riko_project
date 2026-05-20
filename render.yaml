@@ -1,0 +1,6 @@
+services:
+  - type: web
+    name: riko-ai
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: python server/main_chat.py
